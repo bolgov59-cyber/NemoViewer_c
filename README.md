@@ -15,17 +15,20 @@
 │   │   └── database_functions.jl    	# функции БД
 │   └── routes/
 │       ├── main_routes.jl
+│	      ├──javascript_code.jl
+│	      ├──html_templates.jl
+│	      ├──css_styles.jl
 │       └── api_routes.jl
 ├── public/
 │   ├── static/
 │   │   └── maps/
-│   │       ├── 2024-01-15/
+│   │       ├── 2025-10-15/
 │   │       │   ├── antarc_ice_000.png
 │   │       │   ├── antarc_ice_024.png
 │   │       │   ├── antarc_ice_anim.gif
 │   │       │   ├── arctic_ssh_000.png
 │   │       │   └── ... # другие файлы
-│   │       ├── 2024-01-16/
+│   │       ├── 2025-10-16/
 │   │       └── ... # другие даты
 └── run.jl 
 
